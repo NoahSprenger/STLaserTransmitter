@@ -1,0 +1,4 @@
+../Core/Src/CRC.cpp:13:10:uint16_t crc16_update(uint16_t, uint8_t)	24	static
+../Core/Src/CRC.cpp:28:10:uint16_t crc_xmodem_update(uint16_t, uint8_t)	24	static
+../Core/Src/CRC.cpp:44:10:uint16_t crc_ccitt_update(uint16_t, uint8_t)	16	static
+../Core/Src/CRC.cpp:53:9:uint8_t crc_ibutton_update(uint8_t, uint8_t)	24	static
